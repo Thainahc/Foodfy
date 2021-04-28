@@ -57,3 +57,14 @@ body{
 .intro img{
     margin-top: 60px;
 }
+
+.wrapper{
+    padding: 30px 0px 20px 0px;
+}
+
+.wrapper h1{
+    font-family: 'Roboto', bold;
+    font-size: 24px;
+    color: #111111;
+    margin-bottom: 10px;
+}
